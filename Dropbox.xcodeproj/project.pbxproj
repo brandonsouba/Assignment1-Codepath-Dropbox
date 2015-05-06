@@ -1,0 +1,420 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CABE16671AFABB220034DC49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CABE16661AFABB220034DC49 /* AppDelegate.swift */; };
+		CABE16691AFABB220034DC49 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CABE16681AFABB220034DC49 /* ViewController.swift */; };
+		CABE166C1AFABB220034DC49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CABE166A1AFABB220034DC49 /* Main.storyboard */; };
+		CABE166E1AFABB220034DC49 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CABE166D1AFABB220034DC49 /* Images.xcassets */; };
+		CABE16711AFABB220034DC49 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CABE166F1AFABB220034DC49 /* LaunchScreen.xib */; };
+		CABE167D1AFABB220034DC49 /* DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CABE167C1AFABB220034DC49 /* DropboxTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CABE16771AFABB220034DC49 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CABE16591AFABB220034DC49 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CABE16601AFABB220034DC49;
+			remoteInfo = Dropbox;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CABE16611AFABB220034DC49 /* Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dropbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CABE16651AFABB220034DC49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CABE16661AFABB220034DC49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CABE16681AFABB220034DC49 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CABE166B1AFABB220034DC49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CABE166D1AFABB220034DC49 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CABE16701AFABB220034DC49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		CABE16761AFABB220034DC49 /* DropboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DropboxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CABE167B1AFABB220034DC49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CABE167C1AFABB220034DC49 /* DropboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropboxTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CABE165E1AFABB220034DC49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CABE16731AFABB220034DC49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CABE16581AFABB220034DC49 = {
+			isa = PBXGroup;
+			children = (
+				CABE16631AFABB220034DC49 /* Dropbox */,
+				CABE16791AFABB220034DC49 /* DropboxTests */,
+				CABE16621AFABB220034DC49 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CABE16621AFABB220034DC49 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CABE16611AFABB220034DC49 /* Dropbox.app */,
+				CABE16761AFABB220034DC49 /* DropboxTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CABE16631AFABB220034DC49 /* Dropbox */ = {
+			isa = PBXGroup;
+			children = (
+				CABE16661AFABB220034DC49 /* AppDelegate.swift */,
+				CABE16681AFABB220034DC49 /* ViewController.swift */,
+				CABE166A1AFABB220034DC49 /* Main.storyboard */,
+				CABE166D1AFABB220034DC49 /* Images.xcassets */,
+				CABE166F1AFABB220034DC49 /* LaunchScreen.xib */,
+				CABE16641AFABB220034DC49 /* Supporting Files */,
+			);
+			path = Dropbox;
+			sourceTree = "<group>";
+		};
+		CABE16641AFABB220034DC49 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CABE16651AFABB220034DC49 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CABE16791AFABB220034DC49 /* DropboxTests */ = {
+			isa = PBXGroup;
+			children = (
+				CABE167C1AFABB220034DC49 /* DropboxTests.swift */,
+				CABE167A1AFABB220034DC49 /* Supporting Files */,
+			);
+			path = DropboxTests;
+			sourceTree = "<group>";
+		};
+		CABE167A1AFABB220034DC49 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CABE167B1AFABB220034DC49 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CABE16601AFABB220034DC49 /* Dropbox */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CABE16801AFABB220034DC49 /* Build configuration list for PBXNativeTarget "Dropbox" */;
+			buildPhases = (
+				CABE165D1AFABB220034DC49 /* Sources */,
+				CABE165E1AFABB220034DC49 /* Frameworks */,
+				CABE165F1AFABB220034DC49 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Dropbox;
+			productName = Dropbox;
+			productReference = CABE16611AFABB220034DC49 /* Dropbox.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CABE16751AFABB220034DC49 /* DropboxTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CABE16831AFABB220034DC49 /* Build configuration list for PBXNativeTarget "DropboxTests" */;
+			buildPhases = (
+				CABE16721AFABB220034DC49 /* Sources */,
+				CABE16731AFABB220034DC49 /* Frameworks */,
+				CABE16741AFABB220034DC49 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CABE16781AFABB220034DC49 /* PBXTargetDependency */,
+			);
+			name = DropboxTests;
+			productName = DropboxTests;
+			productReference = CABE16761AFABB220034DC49 /* DropboxTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CABE16591AFABB220034DC49 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Brandon Souba";
+				TargetAttributes = {
+					CABE16601AFABB220034DC49 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					CABE16751AFABB220034DC49 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = CABE16601AFABB220034DC49;
+					};
+				};
+			};
+			buildConfigurationList = CABE165C1AFABB220034DC49 /* Build configuration list for PBXProject "Dropbox" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CABE16581AFABB220034DC49;
+			productRefGroup = CABE16621AFABB220034DC49 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CABE16601AFABB220034DC49 /* Dropbox */,
+				CABE16751AFABB220034DC49 /* DropboxTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CABE165F1AFABB220034DC49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CABE166C1AFABB220034DC49 /* Main.storyboard in Resources */,
+				CABE16711AFABB220034DC49 /* LaunchScreen.xib in Resources */,
+				CABE166E1AFABB220034DC49 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CABE16741AFABB220034DC49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CABE165D1AFABB220034DC49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CABE16691AFABB220034DC49 /* ViewController.swift in Sources */,
+				CABE16671AFABB220034DC49 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CABE16721AFABB220034DC49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CABE167D1AFABB220034DC49 /* DropboxTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CABE16781AFABB220034DC49 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CABE16601AFABB220034DC49 /* Dropbox */;
+			targetProxy = CABE16771AFABB220034DC49 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CABE166A1AFABB220034DC49 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CABE166B1AFABB220034DC49 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CABE166F1AFABB220034DC49 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CABE16701AFABB220034DC49 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CABE167E1AFABB220034DC49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CABE167F1AFABB220034DC49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CABE16811AFABB220034DC49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Dropbox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CABE16821AFABB220034DC49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Dropbox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		CABE16841AFABB220034DC49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = DropboxTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dropbox.app/Dropbox";
+			};
+			name = Debug;
+		};
+		CABE16851AFABB220034DC49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = DropboxTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dropbox.app/Dropbox";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CABE165C1AFABB220034DC49 /* Build configuration list for PBXProject "Dropbox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CABE167E1AFABB220034DC49 /* Debug */,
+				CABE167F1AFABB220034DC49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CABE16801AFABB220034DC49 /* Build configuration list for PBXNativeTarget "Dropbox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CABE16811AFABB220034DC49 /* Debug */,
+				CABE16821AFABB220034DC49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		CABE16831AFABB220034DC49 /* Build configuration list for PBXNativeTarget "DropboxTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CABE16841AFABB220034DC49 /* Debug */,
+				CABE16851AFABB220034DC49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CABE16591AFABB220034DC49 /* Project object */;
+}
