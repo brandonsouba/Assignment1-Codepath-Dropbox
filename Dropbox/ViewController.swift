@@ -9,9 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var SecondScreen: UIImageView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.SecondScreen.alpha = 0
         // Do any additional setup after loading the view, typically from a nib.
     }
 

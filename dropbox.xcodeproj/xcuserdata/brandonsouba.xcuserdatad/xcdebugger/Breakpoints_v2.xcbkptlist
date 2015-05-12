@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dropbox/SignInRootViewController.swift"
+            timestampString = "453001604.248619"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SignInRootViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.input.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001574.52984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.input.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001574.530131"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.init (Dropbox.SignInRootViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Dropbox.SignInRootViewController"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001574.53029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.init (Dropbox.SignInRootViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Dropbox.SignInRootViewController"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001574.530504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dropbox/SignInRootViewController.swift"
+            timestampString = "453001598.267564"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SignInRootViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.SignInButton.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001598.269965"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.SignInButton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001598.270128"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.SignInButton.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001598.270235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.init (Dropbox.SignInRootViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Dropbox.SignInRootViewController"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001598.27034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dropbox.SignInRootViewController.init (Dropbox.SignInRootViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Dropbox.SignInRootViewController"
+                  moduleName = "Dropbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonsouba/Dropbox%20(Personal)/Work/xCode/Dropbox3/Dropbox/SignInRootViewController.swift"
+                  timestampString = "453001598.270445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
