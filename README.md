@@ -6,6 +6,6 @@
 2. Which required and optional stories have you completed?
 All required and 2 stories. The correct optionals are in the GIF, but the included code is from before my project became corrupted, so it only contains 2 optionals.
 
-![alt tag](//assignment1.gif)
+![alt tag](https://raw.githubusercontent.com/brandonsouba/Assignment1-Codepath-Dropbox/master/assignment1.gif)
 
 
